@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or issues, please contact [Yang Liu](mailto:yang.liu.3@kaust.edu.sa), or [Yingzi Zhang](mailto:yingzi.zhang@kaust.edu.sa).
+For questions or issues, please contact [Yingzi Zhang](mailto:yingzi.zhang@kaust.edu.sa) or [Yang Liu](mailto:yang.liu.3@kaust.edu.sa)
